@@ -1,1 +1,1 @@
-# KAIM2-Task-2
+# Solar Radiation Measurement 
